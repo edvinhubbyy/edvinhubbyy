@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edvinhubbyy&label=Profile%20views&color=0e75b6&style=flat" alt="edvinhubbyy" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edvinhubbyy" alt="edvinhubbyy" /></a> </p>
+
 - 🌱 I’m currently learning **ASP.NET**
 
 - 📫 How to reach me **metodievivan672@gmail.com**
@@ -16,3 +18,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edvinhubbyy&show_icons=true&locale=en&layout=compact" alt="edvinhubbyy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edvinhubbyy&show_icons=true&locale=en" alt="edvinhubbyy" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edvinhubbyy&" alt="edvinhubbyy" /></p>
