@@ -12,7 +12,7 @@
 - 🎓 I'm currently studying **ASP.NET Core MVC** at **SoftUni**
 - 💬 Ask me about: **C#**, **.NET**, **Entity Framework**, **SQL**, **Web APIs**
 - 📫 Email: metodievivan499@gmail.com
-- 🌐 Website: [cv-forschool.free.bg](https://cv-forschool.free.bg)
+- 🌐 Website: [Personal website](https://leafy-choux-b4605f.netlify.app)
 - 🔗 LinkedIn: [ivan-dzhambazki](https://www.linkedin.com/in/ivan-dzhambazki/)
 
 ---
