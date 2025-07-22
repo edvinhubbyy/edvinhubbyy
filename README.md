@@ -30,7 +30,7 @@
       </ul>
     </td>
     <td width="50%">
-      <h4>🌸 <a href="https://github.com/edvinhubbyy/Azaliq.Web.git">Azaliq – Online Flower Shop</a></h4>
+      <h4>🌸 <a href="https://github.com/edvinhubbyy/Azaliq.WebApp.git">Azaliq – Online Flower Shop</a></h4>
       <ul>
         <li>E-commerce platform for flower orders</li>
         <li>ASP.NET Core MVC + Service Layer</li>
