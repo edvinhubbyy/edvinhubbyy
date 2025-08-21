@@ -55,14 +55,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=edvinhubbyy&theme=dracula&no-frame=true&no-bg=true&column=4&margin-w=10" alt="GitHub Trophies" />
-</p>
-
----
-
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
