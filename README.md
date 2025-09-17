@@ -21,7 +21,7 @@
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="33%">
       <h4>🎬 <a href="https://github.com/edvinhubbyy/Cinema-WebApp.git">Movie & Cinema WebApp</a></h4>
       <ul>
         <li>Full-stack web app for movie tickets</li>
@@ -29,12 +29,20 @@
         <li>Admin panel, validation, user auth</li>
       </ul>
     </td>
-    <td width="50%">
+    <td width="33%">
       <h4>🌸 <a href="https://github.com/edvinhubbyy/Azaliq.WebApp.git">Azaliq – Online Flower Shop</a></h4>
       <ul>
         <li>E-commerce platform for flower orders</li>
         <li>ASP.NET Core MVC + Service Layer</li>
         <li>Filtering, cart, order management</li>
+      </ul>
+    </td>
+    <td width="33%">
+      <h4>📆 <a href="https://github.com/edvinhubbyy/ShiftTracker.git">ShiftTracker</a></h4>
+      <ul>
+        <li>Work shift management app</li>
+        <li>.NET & C# backend</li>
+        <li>Track shifts, export reports</li>
       </ul>
     </td>
   </tr>
